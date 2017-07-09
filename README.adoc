@@ -1,0 +1,3 @@
+= Learning the Pascal/Delphi Language
+
+Here goes my codes I'm doing to learn Pascal/Delphi,
